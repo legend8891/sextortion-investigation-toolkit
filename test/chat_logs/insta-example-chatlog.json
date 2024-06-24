@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "alice"
+    },
+    {
+      "name": "bob"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "bob",
+      "timestamp_ms": 1713100879253,
+      "content": "bye",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100876853,
+      "content": "Ok, see you later",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bob",
+      "timestamp_ms": 1713100868625,
+      "content": "I got to go, i'll speak to you later",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100838398,
+      "content": "Cool cool, nothing really just chilling",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bob",
+      "timestamp_ms": 1713100808043,
+      "content": "Not much really just at work, u?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100794415,
+      "content": "What are you up to?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100754349,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100743610,
+      "content": "Yh good thanks",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "bob",
+      "timestamp_ms": 1713100736606,
+      "content": "Hello, i'm good thank you. Wbu?",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "alice",
+      "timestamp_ms": 1713100712613,
+      "content": "Hi there how are you?",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "alice",
+  "is_still_participant": true,
+  "thread_path": "inbox/alice_545084586892063",
+  "magic_words": []
+}

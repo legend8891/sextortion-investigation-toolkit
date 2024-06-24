@@ -1,0 +1,331 @@
+{
+  "bobdoe97": [
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-13 17:23:01 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1713028981353
+    },
+    {
+      "From": "bobdoe97",
+      "Media Type": "TEXT",
+      "Created": "2024-04-11 07:51:32 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712821892388
+    },
+    {
+      "From": "bobdoe97",
+      "Media Type": "TEXT",
+      "Created": "2024-04-11 07:51:31 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712821891169
+    }
+  ],
+  "28ab7359-2745-44ad-af5c-e5b87652ae0f": [
+    {
+      "From": "bill748",
+      "Media Type": "STATUSPARTICIPANTREMOVED",
+      "Created": "2024-04-12 19:21:36 UTC",
+      "Content": null,
+      "Conversation Title": "the study club",
+      "IsSender": false,
+      "Created(microseconds)": 1712949696341
+    }
+  ],
+  "johnnyx13": [
+    {
+      "From": "johnnyx13",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 18:18:40 UTC",
+      "Content": "sounds good to me, i'll buy us tickets",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712686720925
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 16:27:10 UTC",
+      "Content": "if we go to trilogy we can get tickets online here https://www.trilogysouthampton.com/",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712680030397
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 16:25:17 UTC",
+      "Content": "Either trilogy or jesters i recon",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712679917252
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 16:25:05 UTC",
+      "Content": "how about we go to Stags then Trilogy?",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712679905644
+    },
+    {
+      "From": "johnnyx13",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 16:14:48 UTC",
+      "Content": "thinking of going to a bar and then going out out",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712679288190
+    },
+    {
+      "From": "johnnyx13",
+      "Media Type": "TEXT",
+      "Created": "2024-04-09 16:14:31 UTC",
+      "Content": "heyy i'm coming to southampton soon, any good bars?",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712679271540
+    }
+  ],
+  "beth1234": [
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-08 15:43:20 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712591000017
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-08 15:43:07 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712590987867
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-04-08 15:42:44 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1712590964756
+    },
+    {
+      "From": "beth1234",
+      "Media Type": "TEXT",
+      "Created": "2024-04-03 13:46:59 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712152019974
+    },
+    {
+      "From": "beth1234",
+      "Media Type": "TEXT",
+      "Created": "2024-04-03 13:46:41 UTC",
+      "Content": null,
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712152001035
+    }
+  ],
+  "omar_jacob15": [
+    {
+      "From": "omar_jacob15",
+      "Media Type": "MEDIA",
+      "Created": "2024-04-04 12:12:44 UTC",
+      "Content": "",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1712232764228
+    }
+  ],
+  "soph12": [
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-18 18:56:57 UTC",
+      "Content": "😭 I'll speak to u more wednesday x",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710788217598
+    },
+    {
+      "From": "soph12",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 23:17:19 UTC",
+      "Content": "I know right its so boring x",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1710544639202
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:45:54 UTC",
+      "Content": ";-(",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710542754403
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:45:30 UTC",
+      "Content": "nothing really to do around here ",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710542730710
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:45:25 UTC",
+      "Content": "haha x",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710542725143
+    },
+    {
+      "From": "soph12",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:04:17 UTC",
+      "Content": "Literally the same so board x",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1710540257356
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:01:43 UTC",
+      "Content": "I've been so bored recently lmao",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710540103686
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:01:36 UTC",
+      "Content": "Have you been up to much recently?",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710540096869
+    },
+    {
+      "From": "soph12",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 22:00:15 UTC",
+      "Content": "Sounds great :)",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1710540015052
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:58:55 UTC",
+      "Content": "we can go get a coffee?",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710539935848
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:58:33 UTC",
+      "Content": "i don't know really",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710539913130
+    },
+    {
+      "From": "soph12",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:55:17 UTC",
+      "Content": "That sounds good to me what do you fancy doing?",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1710539717372
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:51:38 UTC",
+      "Content": "good! can do next wednesday if you fancy?x",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710539498380
+    },
+    {
+      "From": "soph12",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:42:48 UTC",
+      "Content": "Hey Alice i'm good thanks how about u? We haven't! I would love that when are you free??x",
+      "Conversation Title": null,
+      "IsSender": false,
+      "Created(microseconds)": 1710538968762
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:33:15 UTC",
+      "Content": "wanna meet up soon?",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710538395795
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:32:46 UTC",
+      "Content": "literally haven't spoken to you in ages",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710538366622
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:32:15 UTC",
+      "Content": "how are u doing?? ",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710538335868
+    },
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-15 21:30:37 UTC",
+      "Content": "hi sophie",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710538237354
+    }
+  ],
+  "mikey7:)": [
+    {
+      "From": "its.alice",
+      "Media Type": "TEXT",
+      "Created": "2024-03-16 18:57:43 UTC",
+      "Content": "Hey mike how are u doing haven't spoken in ages x",
+      "Conversation Title": null,
+      "IsSender": true,
+      "Created(microseconds)": 1710615463065
+    }
+  ]
+}

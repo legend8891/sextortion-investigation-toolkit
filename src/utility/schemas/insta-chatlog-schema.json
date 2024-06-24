@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "participants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    },
+    "messages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sender_name": {
+            "type": "string"
+          },
+          "timestamp_ms": {
+            "type": "number"
+          },
+          "content": {
+            "type": "string"
+          },
+          "is_geoblocked_for_viewer": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "sender_name",
+          "timestamp_ms",
+          "content",
+          "is_geoblocked_for_viewer"
+        ]
+      }
+    },
+    "title": {
+      "type": "string"
+    },
+    "is_still_participant": {
+      "type": "boolean"
+    },
+    "thread_path": {
+      "type": "string"
+    },
+    "magic_words": {
+      "type": "array",
+      "items": {}
+    }
+  },
+  "required": [
+    "participants",
+    "messages",
+    "title",
+    "is_still_participant",
+    "thread_path",
+    "magic_words"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "From": { "type": "string"},
+        "Media Type": { "type": "string"},
+        "Created": { "type": "string"},
+        "Content": { "type": ["string", "null"] },
+        "Conversation Title": { "type": ["string", "null"] },
+        "IsSender": { "type": "boolean" },
+        "Created(microseconds)": { "type": "number" }
+      },
+      "required": ["From", "Media Type", "Created", "IsSender", "Created(microseconds)"]
+    }
+  }
+}
+
+
+
+
+
