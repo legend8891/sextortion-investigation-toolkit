@@ -160,7 +160,7 @@ tkinterdnd2==0.3.0
 tomlkit==0.12.4
 torch==2.2.2
 torchvision==0.17.2
-tornado==6.4
+tornado==6.5
 tqdm==4.66.2
 ttkwidgets==0.13.0
 typer==0.9.4
