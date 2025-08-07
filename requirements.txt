@@ -170,7 +170,7 @@ uc-micro-py==1.0.3
 ultralytics==8.1.46
 uritools==4.0.2
 urlextract==1.9.0
-urllib3==2.2.1
+urllib3==2.5.0
 wasabi==1.1.2
 weasel==0.3.4
 webencodings==0.5.1
