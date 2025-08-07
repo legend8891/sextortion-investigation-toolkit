@@ -158,7 +158,7 @@ threadpoolctl==3.4.0
 tkcalendar==1.6.1
 tkinterdnd2==0.3.0
 tomlkit==0.12.4
-torch==2.2.2
+torch==2.8.0
 torchvision==0.17.2
 tornado==6.4
 tqdm==4.66.2
